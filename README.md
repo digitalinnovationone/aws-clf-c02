@@ -13,7 +13,9 @@ Fruto de uma parceria estratégica entre a DIO e a AWS, o conteúdo aqui disponi
 
 ## 📚 Wiki
 
-Para aprofundar-se ainda mais nos temas do exame, explore nossa [Wiki Completa](https://github.com/digitalinnovationone/aws-clf-c02/wiki). Ela detalha todos os tópicos abordados pela certificação e é um recurso inestimável para candidatos que buscam fortalecer seu conhecimento e preparação. Além disso, como um verdadeiro esforço colaborativo, convidamos você a contribuir com a Wiki. Sua expertise e insights são valiosos para todos nós 👊🤩
+Para aprofundar-se ainda mais nos temas do exame, explore nossa [Wiki Completa](https://github.com/digitalinnovationone/aws-clf-c02/wiki). Ela detalha e expande a perspectiva de estudos em todos os tópicos abordados pela certificação e é um recurso inestimável para candidatos que buscam fortalecer seu conhecimento e preparação. 
+
+**Para encerrar, lembramos que este é um esforço colaborativo e a sua contribuição é essencial. Convidamos você a enriquecer nossa Wiki com sua expertise e insights. Juntos, podemos fazer desta uma fonte de conhecimento ainda mais robusta para todos 👊🤩**
 
 ## 📌 Referências
 
