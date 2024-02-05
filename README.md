@@ -1,8 +1,8 @@
 # Guia de Estudos DIO: AWS Cloud Practitioner (CLF‐C02)
 
-Este repositório representa uma iniciativa aberta da DIO, estabelecida com o propósito de disponibilizar materiais de estudo colaborativos para o exame [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/).
+Este repositório é uma iniciativa aberta da DIO, criada com o objetivo de fornecer materiais de estudo colaborativos para o exame [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/).
 
-O conteúdo disponibilizado é fruto de uma parceria estratégica entre a DIO e a AWS, com o intuito de capacitar os candidatos nos fundamentos da nuvem da Amazon. A certificação em questão é direcionada a indivíduos que aspiram a validar sua compreensão ampla dos serviços e estruturas da nuvem AWS, independentemente de suas funções profissionais específicas. De maneira específica, esta certificação confirma a habilidade do candidato em realizar tarefas cruciais, que incluem:
+Fruto de uma parceria estratégica entre a DIO e a AWS, o conteúdo aqui disponibilizado visa equipar os candidatos com os fundamentos essenciais da nuvem da Amazon. A certificação é ideal para aqueles que desejam demonstrar uma compreensão abrangente dos serviços e estruturas da nuvem AWS, independentemente de suas funções específicas. Ela valida a competência do candidato nas seguintes áreas:
 
 * Explicar o **valor da nuvem AWS**.
 * Entender o **modelo de responsabilidade compartilhada da AWS**.
@@ -11,9 +11,11 @@ O conteúdo disponibilizado é fruto de uma parceria estratégica entre a DIO e 
 * Descrever os **serviços chave da AWS** (computação, rede, banco de dados, armazenamento).
 * Identificar **serviços da AWS para cenários comuns**.
 
-Para um aprofundamento ainda maior nos tópicos abordados pelo exame, estamos criando juntos uma [Wiki Completa](https://github.com/digitalinnovationone/aws-clf-c02/wiki), que detalha meticulosamente cada um dos tópicos da certificação. A Wiki serve como um recurso valioso para os candidatos que desejam consolidar seu conhecimento e garantir uma preparação abrangente.
+## 📚 Wiki
 
-## Referências
+Para aprofundar-se ainda mais nos temas do exame, explore nossa [Wiki Completa](https://github.com/digitalinnovationone/aws-clf-c02/wiki). Ela detalha todos os tópicos abordados pela certificação e é um recurso inestimável para candidatos que buscam fortalecer seu conhecimento e preparação. Além disso, como um verdadeiro esforço colaborativo, convidamos você a contribuir com a Wiki. Sua expertise e insights são valiosos para todos nós 👊🤩
+
+## 📌 Referências
 
 1. [AWS Certified Cloud Practitioner](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) (Página Oficial da AWS)
 2. [Guia do Exame AWS Certified Cloud Practitioner](https://github.com/digitalinnovationone/aws-clf-c02/files/14139841/AWS.Certified.Cloud.Practitioner.certificate.pdf)
