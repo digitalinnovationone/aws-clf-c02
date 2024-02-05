@@ -13,7 +13,7 @@ Fruto de uma parceria estratégica entre a DIO e a AWS, o conteúdo aqui disponi
 
 ## 🗺️ Certificações AWS Disponíveis
 
-A AWS Cloud Practitioner é o primeiro passo dentre as possibilidades de exames da Amazon. Abaixo temos uma visão geral da [AWS Certification](https://aws.amazon.com/pt/certification), mostrando toda a gama de possibilidades que podem ser exploradas a partir deste guia:
+A AWS Cloud Practitioner é o primeiro passo dentre as possibilidades de exames da Amazon. Abaixo temos uma visão geral das [Certificações AWS](https://aws.amazon.com/pt/certification), mostrando toda a gama de possibilidades que podem ser exploradas a partir deste guia:
 
 ![Certificações AWS Disponíveis](https://github.com/digitalinnovationone/aws-clf-c02/assets/730492/6829dcee-fcac-4525-bc74-6daaaec514f9)
 
