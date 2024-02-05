@@ -11,6 +11,12 @@ Fruto de uma parceria estratégica entre a DIO e a AWS, o conteúdo aqui disponi
 * Descrever os **serviços chave da AWS** (computação, rede, banco de dados, armazenamento).
 * Identificar **serviços da AWS para cenários comuns**.
 
+## 🗺️ Início da Sua Jornada na AWS
+
+Saiba qual [AWS Certification](https://aws.amazon.com/pt/certification) é ideal para você com base nas funções em que você está ou deseja alcançar.
+
+![image](https://github.com/digitalinnovationone/aws-clf-c02/assets/730492/9def5938-435a-4e07-a804-aece7d71d93a)
+
 ## 📚 Wiki
 
 Para aprofundar-se ainda mais nos temas do exame, explore nossa [Wiki Completa](https://github.com/digitalinnovationone/aws-clf-c02/wiki). Ela detalha e expande a perspectiva de estudos em todos os tópicos abordados pela certificação e é um recurso inestimável para candidatos que buscam fortalecer seu conhecimento e preparação. 
