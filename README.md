@@ -21,12 +21,12 @@ A AWS Cloud Practitioner é o primeiro passo dentre as possibilidades de exames 
 
 A tabela a seguir mostra os domínios e a porcentagem de perguntas pontuadas em cada domínio para o exame CLF-C01 (em uso até 18 de setembro de 2023) e o exame **CLF-C02 (em uso a partir de 19 de setembro de 2023)**.
 
-| Domínio C01                       | Perguntas | Domínio C02                           | Perguntas  |
-|-----------------------------------|-----------|---------------------------------------|------------|
-| 1: Conceitos da Nuvem             | 26%       | 1: Conceitos da Nuvem                 | 24% ↓      |
-| 2: Segurança e Conformidade       | 25%       | 2: Segurança e Conformidade           | 30% ↑      |
-| 3: Tecnologia                     | 33%       | 3: Tecnologia e **Serviços da Nuvem** | 34% ↑      |
-| 4: Cobrança e Preços              | 16%       | 4: Cobrança, Preços e **Suporte**     | 12% ↓      |
+| Domínio C01                       | Perguntas | Domínio C02                           | Perguntas      |
+|-----------------------------------|-----------|---------------------------------------|----------------|
+| 1: Conceitos da Nuvem             | 26%       | 1: Conceitos da Nuvem                 | **24% ↓**      |
+| 2: Segurança e Conformidade       | 25%       | 2: Segurança e Conformidade           | **30% ↑**      |
+| 3: Tecnologia                     | 33%       | 3: Tecnologia e **Serviços da Nuvem** | **34% ↑**      |
+| 4: Cobrança e Preços              | 16%       | 4: Cobrança, Preços e **Suporte**     | **12% ↓**      |
 
 ## 📚 Wiki
 
