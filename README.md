@@ -11,11 +11,11 @@ Fruto de uma parceria estratégica entre a DIO e a AWS, o conteúdo aqui disponi
 * Descrever os **serviços chave da AWS** (computação, rede, banco de dados, armazenamento).
 * Identificar **serviços da AWS para cenários comuns**.
 
-## 🗺️ Início da Sua Jornada na AWS
+## 🗺️ Roadmap de Certificações AWS
 
-Saiba qual [AWS Certification](https://aws.amazon.com/pt/certification) é ideal para você com base nas funções em que você está ou deseja alcançar.
+A AWS Cloud Practitioner é o primeiro passo dentre as possibilidades de exames da Amazon. Abaixo temos uma visão geral da [AWS Certification](https://aws.amazon.com/pt/certification), mostrando toda a gama de possibilidades que podem ser exploradas a partir deste guia:
 
-![image](https://github.com/digitalinnovationone/aws-clf-c02/assets/730492/9def5938-435a-4e07-a804-aece7d71d93a)
+![How to Get AWS Certified](https://github.com/digitalinnovationone/aws-clf-c02/assets/730492/9def5938-435a-4e07-a804-aece7d71d93a)
 
 ## Comparação: CLF-C01 vs CLF-C02
 
