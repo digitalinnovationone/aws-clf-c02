@@ -19,7 +19,7 @@ A AWS Cloud Practitioner é o primeiro passo dentre as possibilidades de exames 
 
 ## Comparação: CLF-C01 vs CLF-C02
 
-A tabela a seguir mostra os domínios e a porcentagem de perguntas pontuadas em cada domínio para o exame CLF-C01 (em uso até 18 de setembro de 2023) e o exame CLF-C02 (em uso a partir de 19 de setembro de 2023).
+A tabela a seguir mostra os domínios e a porcentagem de perguntas pontuadas em cada domínio para o exame CLF-C01 (em uso até 18 de setembro de 2023) e o exame **CLF-C02 (em uso a partir de 19 de setembro de 2023)**.
 
 | Domínio C01                       | Perguntas | Domínio C02                           | Perguntas  |
 |-----------------------------------|-----------|---------------------------------------|------------|
