@@ -37,5 +37,5 @@ Para aprofundar-se ainda mais nos temas do exame, explore nossa [Wiki Completa](
 ## 📌 Referências
 
 1. [AWS Certified Cloud Practitioner](https://aws.amazon.com/pt/certification/certified-cloud-practitioner/) (Página Oficial da AWS)
-2. [Guia do Exame AWS Certified Cloud Practitioner](https://github.com/digitalinnovationone/aws-clf-c02/files/14139841/AWS.Certified.Cloud.Practitioner.certificate.pdf)
+2. [Guia do Exame AWS Certified Cloud Practitioner](https://github.com/digitalinnovationone/aws-clf-c02/files/14322915/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 3. [Updates to the AWS Certified Cloud Practitioner Exam](https://www.whizlabs.com/blog/aws-cloud-practitioner-clf-c02-exam/) (CLF-C01 vs CLF-C02)
